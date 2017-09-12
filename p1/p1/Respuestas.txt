@@ -1,0 +1,8 @@
+﻿What’s difference between Portable (CPL) and Shared (SAP) projects?
+R= CPL joins android, iOS, Windows Phone in a single track while SAP has a different language for each one
+
+What are the requirements to configure Xamarin Mac Agent?
+MacOS 10.12 sierra, x Code, Visual studio for mac, mono sdk, xamarin monotouch
+
+How many projects y ou have and why you need all?
+Android,iOS,Windows Phone, Portable are the 3 most popular systems
